@@ -1,4 +1,5 @@
 sample.txt
+*.log
 _site/
 .sass-cache/
 .jekyll-metadata
