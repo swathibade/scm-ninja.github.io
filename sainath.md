@@ -7,7 +7,7 @@ This is git project,Which we are using as sample project
 ##Introduction
 
 Alot of lectures are already submitted
-
+I know python lang as well as
 
 ##GIT and GITHUB training
 
@@ -19,3 +19,7 @@ Adding GIT repository lectures
 ##GIT content
 comparision with repo
 HTML,python,Devops
+
+##TEAM
+Swathi
+Swathi0926@gmail.com
