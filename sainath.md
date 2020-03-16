@@ -18,3 +18,4 @@ Adding GIT repository lectures
 
 ##GIT content
 comparision with repo
+HTML,python,Devops
