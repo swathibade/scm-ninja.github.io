@@ -15,6 +15,8 @@ This is famous and one of the best training course for devops
 
 ##GIT comparision
 Adding GIT repository lectures
+GIT status
+GIT commit
 
 ##GIT content
 comparision with repo
