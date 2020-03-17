@@ -3,7 +3,7 @@ This is git project,Which we are using as sample project
 swathi,sainath
 Alot of changes
 
-
+Important notes on git status
 
 
 ##Introduction
