@@ -10,6 +10,7 @@ Alot of lectures are already submitted
 I know python lang as well as
 
 ##GIT and GITHUB training
+Really awesome training
 
 This is famous and one of the best training course for devops
 
@@ -17,6 +18,7 @@ This is famous and one of the best training course for devops
 Adding GIT repository lectures
 GIT status
 GIT commit
+
 
 ##GIT content
 comparision with repo
