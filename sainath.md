@@ -24,3 +24,4 @@ HTML,python,Devops
 Swathi
 Swathi0926@gmail.com
 Thanks to all my students
+Learning devops and python course
