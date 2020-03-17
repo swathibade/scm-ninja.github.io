@@ -9,3 +9,4 @@ git rebase lectures
 we have done somuch together
 I love you
 banda banda
+git stash
