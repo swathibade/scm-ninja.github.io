@@ -20,6 +20,7 @@ This is famous and one of the best training course for devops
 Adding GIT repository lectures
 GIT status
 GIT commit
+GIT Tagging
 
 
 ##GIT content
